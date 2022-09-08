@@ -1,6 +1,6 @@
 ## Tela de login do Instagram!!!
 
-<a href="https://viniciussilver.github.io/instagram-login-screen/project/#" >Deploy da pagina</a>
+<a target="_blank" href="https://viniciussilver.github.io/instagram-login-screen/project/#" >Deploy da pagina</a>
 
 <h3>💻Tecnologias</h3>
  <ul>
