@@ -1,0 +1,141 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: "Poppins", sans-serif;
+  font-weight:400;
+}
+
+body {
+  height: 100vh;
+  background-color: #FAFAFA;
+  display: flex;
+  justify-content: center;
+  gap:8%;
+  align-items: center;
+}
+
+.Container {
+  display: flex;
+  flex-direction: column;
+  height: 85%;
+  width: 420px;
+  gap: 14px;
+}
+
+.login_box {
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+  border: 1px solid #dbdbdb;
+  padding: 30px 40px;
+}
+
+.iphone {
+  height: 600px;
+}
+.links {
+  margin-top: 14px;
+}
+
+.app_store {
+  width: 170px;
+}
+
+a {
+  color: #258bef;
+}
+a:active {
+    color: black;
+}
+
+input {
+  font-weight: 400;
+  font-size: 15.5px;
+  margin-bottom: 8px;
+  width: 100%;
+  padding: 11px 7px;
+  outline: none;
+  border: 1.5px solid #dbdbdb;
+  background-color: #fff;
+}
+
+.logo {
+  width: 60%;
+  margin-bottom: 20px;
+}
+
+button {
+  margin: 10px 0 15px 0;
+  width: 100%;
+  padding: 9px;
+  font-size: 17px;
+  background-color: #258bef;
+  color: #fff;
+  border-radius: 2px;
+  border: none;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+button:active {
+  opacity: 0.6;
+}
+
+.box_images {
+  position: relative;
+  height: 550px;
+}
+
+.style_linha {
+  display:flex;
+  align-items: center;
+  
+}
+
+.style_p {
+  padding: 0 7px;
+}
+
+.linha_div1 {
+  width: 150px;
+  height: 1px;
+  border:1px solid #dbdbdb;
+}
+.linha_div2 {
+  width: 150px;
+  height: 1px;
+  border:1px solid #dbdbdb;
+}
+
+.img_insta1 {
+  position: absolute;
+  left: 33.5%;
+  bottom: 2.5%;
+  height: 515px;
+  transition: 1.0s ease;
+}
+
+.registration_box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+  padding: 20px 40px;
+  width: 100%;
+  border: 1px solid #dbdbdb;
+}
+
+
+
+.images_store {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 13px;
+  margin-top: 10px;
+}
+
+
